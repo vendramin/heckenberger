@@ -38,6 +38,7 @@ Click [here](poster.pdf).
 ### Organizer:
 
 * [Leandro Vendramin](https://www.leandrovendramin.org/)
+* The chair is sponsored by the [Francqui Foundation](https://www.francquifoundation.be).
 
 ---
 Heckenberger's picture is taken from the Archives of the Mathematisches Forschungsinstitut Oberwolfach.
