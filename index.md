@@ -2,7 +2,7 @@
 
 ![Heckenberger](heckenberger.jpeg)
 
-István Heckenberger is a distinguished German mathematician specializing in Hopf algebras, Nichols algebras, quantum groups, and related algebraic structures. He is currently a Full Professor at the Philipps University of Marburg in Germany. Heckenberger has made seminal contributions to several areas of modern algebra, particularly on Nichols algebras. He coauthored the comprehensive book *Hopf Algebras and Root Systems* with Hans-Jürgen Schneider. 
+István Heckenberger is a distinguished German mathematician who specializes in Hopf algebras, Nichols algebras, quantum groups, and related algebraic structures. He is currently a Full Professor at Philipps University of Marburg in Germany. Heckenberger has made seminal contributions to several areas of modern algebra, particularly to the theory of Nichols algebras, where he introduced the concept of Weyl groupoids. He is also the coauthor, with Hans-Jürgen Schneider, of the comprehensive book [Hopf Algebras and Root Systems](https://bookstore.ams.org/surv-247/).
 
 ### Inaugural lecture
 
