@@ -39,3 +39,6 @@ Click [here](poster.pdf).
 
 * [Leandro Vendramin](https://www.leandrovendramin.org/)
 
+---
+Heckenberger's picture is taken from the Archives of the Mathematisches Forschungsinstitut Oberwolfach.
+
