@@ -6,34 +6,31 @@ István Heckenberger is a distinguished German mathematician who specializes in 
 
 ### Inaugural lecture
 
-TBA
+What is a Weyl groupoid?  
+Thursday, Feb 12, 15:00. Room G.6.52. 
 
-### Weyl groupoids 
+Registration for the Inaugural Lecture is free but mandatory: [here](https://forms.office.com/e/jK1aYWKtmB).
 
-#### Preliminares 
+### Course
 
-TBA 
+Weyl groupoids and applications 
 
-#### Lectures
-
-TBA 
+|   Lecture   |          Time        |  Room  | 
+|:-----------:|:--------------------:|:------:|
+|      1      | Thursday 26/2, 14:00 | D.3.14 |
+|      2      | Friday 27/2, 14:00   | G.6.60 |
+|      3      | Thursday 05/3, 14:00 | D.3.14 |
+|      4      | Friday 06/3, 14:00   | G.6.60 |
+|      5      | Thursday 12/3, 14:00 | D.3.14 |
+|      6      | Friday 13/3, 14:00   | G.6.60 |
+|      7      | Thursday 19/3, 14:00 | D.3.14 |
+|      8      | Friday 20/3, 14:00   | G.6.60 |
+|      9      | Thursday 26/3, 14:00 | D.3.14 |
+|     10      | Friday 27/3, 14:00   | G.6.60 |
 
 #### Poster 
 
 Click [here](poster.pdf).
-
-#### When and where? 
-
-|   Lecture   |    Time      |
-|:-----------:|:------------:|
-|      1      |    TBA       |
-|      2      |    TBA       |
-|      3      |    TBA       |
-|      4      |    TBA       |
-|      5      |    TBA       |
-|      6      |    TBA       |
-|      7      |    TBA       |
-|      8      |    TBA       |
 
 ### Organizer:
 
