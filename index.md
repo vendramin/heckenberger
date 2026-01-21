@@ -6,14 +6,30 @@ István Heckenberger is a distinguished German mathematician who specializes in 
 
 ### Inaugural lecture
 
-What is a Weyl groupoid?  
+_On some beautiful children of abstract algebra_  
 Thursday, Feb 12, 15:00. Room G.6.52. 
+
+Abstract: From time to time, abstract algebraic structures like Nichols
+algebras produce during their studies interesting, rather elementary but
+non-trivial mathematical structures. In the lecture I will demonstrate
+two of such structures, frieze patterns of integers and the hyperplane
+geometry of Weyl groupoids.
+
 
 Registration for the Inaugural Lecture is free but mandatory: [here](https://forms.office.com/e/jK1aYWKtmB).
 
 ### Course
 
-Weyl groupoids and applications 
+_Nichols algebras and root systems_  
+
+Abstract: Today the theory of Nichols algebras looks back to a rapid
+development, which started already in the 20th century. In the course I
+will explain in detail the basic structures and some powerful
+combinatorial tools to study these abstract algebraic objects. Some
+classification results will be discussed. As a prerequisite I will
+assume the knowledge of tensor products and very basic categorical and
+non-commutative algebraic structures.
+
 
 |   Lecture   |          Time        |  Room  | 
 |:-----------:|:--------------------:|:------:|
