@@ -13,10 +13,7 @@ Abstract: From time to time, abstract algebraic structures like Nichols
 algebras produce during their studies interesting, rather elementary but
 non-trivial mathematical structures. In the lecture I will demonstrate
 two of such structures, frieze patterns of integers and the hyperplane
-geometry of Weyl groupoids.
-
-
-Registration for the Inaugural Lecture is free but mandatory: [here](https://forms.office.com/e/jK1aYWKtmB).
+geometry of Weyl groupoids. [Slides](https://leandrovendramin.org/team/2026/heckenberger.pdf). 
 
 ### Course
 
