@@ -25,7 +25,10 @@ will explain in detail the basic structures and some powerful
 combinatorial tools to study these abstract algebraic objects. Some
 classification results will be discussed. As a prerequisite I will
 assume the knowledge of tensor products and very basic categorical and
-non-commutative algebraic structures.
+non-commutative algebraic structures.  
+The course is based on Heckenberger's [book](https://www.uni-marburg.de/en/fb12/research-groups/algeblie/projects/surv247.pdf). 
+The exercises for the course are available [here](exercises.pdf).
+
 
 
 |   Lecture   |          Time        |  Room  | 
